@@ -1,5 +1,9 @@
 [
   {
+    "package": "nplyr",
+    "oncran": true
+  },
+  {
     "package": "workboots",
     "oncran": true
   }
