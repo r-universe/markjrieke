@@ -1,10 +1,10 @@
 [
   {
-    "package": "nplyr",
+    "package": "workboots",
     "oncran": true
   },
   {
-    "package": "workboots",
+    "package": "nplyr",
     "oncran": true
   }
 ]
