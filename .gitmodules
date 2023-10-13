@@ -5,6 +5,3 @@
 [submodule "nplyr"]
 	path = nplyr
 	url = https://github.com/markjrieke/nplyr
-[submodule "workboots"]
-	path = workboots
-	url = https://github.com/markjrieke/workboots
